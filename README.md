@@ -64,3 +64,11 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+
+## Databases
+
+Link DB: https://drive.google.com/file/d/1JAKnM7JxDLNX5Ud54_CGBQF1eKGjIx3b/view?usp=share_link
+<br>
+Portin .env : 3307
+<br>
+Note: 'masih ada error di bagian edit, error "Attempt to read property "kode_barang" on bool", tapi data bisa berubah'
